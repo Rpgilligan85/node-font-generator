@@ -1,0 +1,3 @@
+node ./webfont-generator 'folder input' 'folder output'
+
+Example: node ./webfont-generator ./ATC ./Font

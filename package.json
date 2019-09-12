@@ -1,0 +1,47 @@
+{
+  "name": "glympse-webfont-generator",
+  "version": "0.0.3",
+  "author": "dudewad",
+  "description": "A utility for packaging webfonts from individual SVG files - Forked from https://github.com/moven/webfont-generator",
+  "contributors": [
+    {
+      "email": "layton@glympse.com"
+    }
+  ],
+  "scripts": {
+    "start": "node index"
+  },
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "https://github.com/caolan/async/raw/master/LICENSE"
+    }
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/moven/webfont-generator.git"
+  },
+  "bin": {
+    "webfont-generator": "./webfont-generator"
+  },
+  "keywords": [
+    "svg",
+    "woff",
+    "ttf",
+    "unicode"
+  ],
+  "dependencies": {
+    "async": "~0.2.9",
+    "express": "^4.17.1",
+    "svg2ttf": "^4.0.1",
+    "svgo": "~0.4.4",
+    "svgpath": "~1.0.2",
+    "ttf2woff": "~1.2.0",
+    "underscore": "~1.5.2",
+    "xml2js": "~0.4.1"
+  },
+  "devDependencies": {},
+  "engines": {
+    "node": "=0.10.8"
+  }
+}
