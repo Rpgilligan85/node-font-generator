@@ -2,7 +2,7 @@
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd" >
 <svg xmlns="http://www.w3.org/2000/svg">
 <defs>
-<font id="ATC-Font" horiz-adv-x="1024">
+<font id="ATC-Font-New" horiz-adv-x="1024">
 <font-face units-per-em="1024" ascent="1024" descent="0" />
 
   <glyph unicode="&#97;" d="M658 475H838Q838 477 837 480T835 485L714 768H310L189 485Q188 483 187 480T186 475H366L421 366H603ZM951 458V183Q951 168 940 157T914 146H110Q95 146 84 157T73 183V458Q73 494 87 529L223 844Q229 858 244 868T274 878H750Q765 878 780 868T801 844L937 529Q951 494 951 458Z" />
